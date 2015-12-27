@@ -22,3 +22,8 @@ Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
 permitted by applicable law.
 root@1dfbc79e05c #
 ```
+
+## Credentials
+
+* user: `root`
+* password: `screencast`
